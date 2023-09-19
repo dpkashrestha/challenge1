@@ -9,4 +9,4 @@ This repository contains code to create a digital marketing website in HTML and 
 ## Deployment
 This website is deployed to GitHub pages. 
 
-Link: https://dpkashrestha.github.io/challenge1/
+Link: https://dpkashrestha.github.io/horiseon-code-refactor/
